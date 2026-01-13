@@ -1,7 +1,7 @@
 {
   "name": "file-stager",
   "displayName": "File Stager",
-  "description": "Copy files and folders from VS Code Explorer to the OS clipboard.",
+  "description": "Copy files and folders from VS Code Explorer to the OS clipboard, ready to be pasted elsewhere.",
   "version": "1.0.0",
   "publisher": "Federicowitz",
   "icon": "icon.png",
