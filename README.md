@@ -2,6 +2,8 @@
 
 A simple yet powerful VS Code extension that allows you to **copy files and folders** from the VS Code Explorer and paste them directly anywhere
 
+![Icon](/icon.png)
+
 ## Problem
 
 By default, VS Code only allows you to copy the _path_ of a file or its text content.
