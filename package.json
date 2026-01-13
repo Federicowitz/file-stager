@@ -4,6 +4,7 @@
   "description": "Copy files and folders from VS Code Explorer to the OS clipboard.",
   "version": "1.0.0",
   "publisher": "Federicowitz",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
